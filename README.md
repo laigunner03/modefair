@@ -11,4 +11,4 @@ Tableau dashboard can be view either
 Pitch Deck is the Supersales Pitch Deck.pptx
 Or could be access through this link: https://docs.google.com/presentation/d/1W5Qh3mZFEOLlnjMBYmrYccux41tX5JWjL0Q9gDnbOEg/edit?usp=sharing
 
-The screenshot of the dashboard are within the Dashboard Screenshot folder
+The screenshot of the dashboard are the png files
